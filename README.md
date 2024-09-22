@@ -4,12 +4,6 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">A minor breach today could mean unseen power tomorrow</h2></summary>
-  </ul>
-</div>
-
 <!--Intro start-->
 - Undergraduate Student at IIT Kanpur
 - Passionate about Cybersecurity, Systems, Networks and Robotics
