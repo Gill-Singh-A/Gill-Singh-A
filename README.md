@@ -56,5 +56,7 @@
 
 <!--profile visit count-->
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/Gill-Singh-A/count.svg)
+  
+[![](https://visitcount.itsvg.in/api?id=Gill-Singh-A&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
