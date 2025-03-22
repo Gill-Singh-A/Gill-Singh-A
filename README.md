@@ -57,6 +57,6 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Gill-Singh-A&icon=3&color=6)](https://visitcount.itsvg.in)
+  <img src="https://komarev.com/ghpvc/?username=Gill-Singh-A&label=Profile%20views&color=0e75b6&style=flat" alt="Gill-Singh-A" />
   
 </div>
