@@ -5,10 +5,6 @@
 </div>
 
 <!--Intro start-->
-- Undergraduate Student at IIT Kanpur
-- Passionate about Cybersecurity, Systems, Networks and Robotics
-- Writing regularly on [Medium](https://medium.com/@amansg22)
-- Open to collaborations on projects with shared interests
 - Reach out at: amansg22@iitk.ac.in
 <!--Intro end-->
 
